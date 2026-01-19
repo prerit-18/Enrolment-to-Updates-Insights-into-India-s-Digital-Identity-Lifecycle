@@ -1,6 +1,6 @@
-📊 Unlocking Societal Trends in Aadhaar Enrolment and Updates
+# 📊 From Enrolment to Updates: Insights into India’s Digital Identity Lifecycle
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes Aadhaar enrolment, demographic update, and biometric update datasets to identify meaningful patterns and trends related to population coverage, identity updates, and regional behavior.
 
@@ -8,7 +8,7 @@ The analysis focuses on data cleaning, aggregation, and exploratory analysis to 
 
 ⸻
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 Unlocking Societal Trends in Aadhaar Enrolment and Updates
 
@@ -16,7 +16,7 @@ The objective is to identify meaningful patterns, trends, or indicators from Aad
 
 ⸻
 
-📂 Datasets Used
+## 📂 Datasets Used
 
 This project uses publicly available, aggregated Aadhaar datasets.
 
@@ -57,7 +57,7 @@ Captures biometric refresh behavior and age-related biometric changes.
 
 ⸻
 
-⚠️ Data Availability
+## ⚠️ Data Availability
 
 Due to GitHub file size limitations, the raw CSV datasets are not included in this repository.
 
@@ -65,7 +65,7 @@ The datasets can be downloaded from the official UIDAI data source and placed in
 
 ⸻
 
-🛠 Data Preprocessing
+## 🛠 Data Preprocessing
 
 The notebook performs the following preprocessing steps:
 	•	Combined multiple API chunks for each dataset
@@ -79,7 +79,7 @@ These steps ensure data integrity and prevent double counting.
 
 ⸻
 
-📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 The notebook explores:
 	•	Age-wise enrolment distribution
@@ -91,7 +91,7 @@ The analysis focuses on understanding what the data represents rather than apply
 
 ⸻
 
-🔍 Key Insights
+## 🔍 Key Insights
 	•	Aadhaar enrolment varies significantly across age groups and regions, reflecting life-stage and population distribution.
 	•	Demographic updates indicate identity changes linked to mobility and personal circumstances.
 	•	Biometric updates show clear age-related patterns, emphasizing the importance of periodic biometric refresh.
@@ -99,20 +99,20 @@ The analysis focuses on understanding what the data represents rather than apply
 
 ⸻
 
-📈 Tools & Technologies
+## 📈 Tools & Technologies
 	•	Python
 	•	pandas, numpy
 	•	Jupyter Notebook
 
 ⸻
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates how Aadhaar enrolment and update data can be systematically cleaned and analyzed to uncover meaningful societal trends. The insights derived from the notebook highlight the value of administrative data in supporting data-driven understanding and system-level improvements.
 
 ⸻
 
-👤 Contributors
+## 👤 Contributors
 	•	Prerit
 	•	Alisha Chaudhary
 	•	Harmanpreet Kaur
